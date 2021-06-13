@@ -1,2 +1,3 @@
 # calculator
-simple calculator using python and its liberaries
+simple calculator using python
+
